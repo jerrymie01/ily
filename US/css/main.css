@@ -185,8 +185,7 @@ button:hover {
   background-image: url(../images/BG.jpeg);
 }
 #poem {
-  display: flex;
-  align-items: center;
+ height: fit-content;
   background-size: cover;
  background-image: url(../images/BG.jpeg);
 
