@@ -181,7 +181,7 @@ button:hover {
 #letter {
   background-size: cover;
 
-  height: 100vh;
+ height: fit-content;
   background-image: url(../images/BG.jpeg);
 }
 #poem {
